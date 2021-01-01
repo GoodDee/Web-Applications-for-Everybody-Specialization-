@@ -4,7 +4,7 @@ This repository contains all my works created in Web Applications for Everybody 
 ## Course 1: Building Web Applications in php
 **Goal**: Understand request/response cycle, GET/POST/REDIRECT. Review HTML and CSS syntax. Be able to write web pages using php environment like XAMPP or MAMP.
 
-- [x] **Assignment Files** 
+- [x] **Assignment Files**  
 [HTML Review](https://github.com/GoodDee/Web-Applications-for-Everybody-Specialization-/blob/main/Week2_HTML_Review.html)  
 [CSS Review](https://github.com/GoodDee/Web-Applications-for-Everybody-Specialization-/blob/main/blocks.css)  
 [PHP assignment 1](https://github.com/GoodDee/Web-Applications-for-Everybody-Specialization-/tree/main/A5)  
@@ -19,7 +19,7 @@ This repository contains all my works created in Web Applications for Everybody 
 ## Course 3: Building Database Applications in PHP
 **Goal**: Learn about object oriented patterns in PHP, how to connect to MySQL using Portable Data Objects (PDO) library, and how to issue SQL commands. Also, be able to use cookies, sessions, flash messages, POST-REDIRECT-GET. Be able to build 'first' application with CRUD.  
 
-- [x] **Assignment Files**
+- [x] **Assignment Files**  
 [CRUD Assignment 1](https://github.com/GoodDee/Web-Applications-for-Everybody-Specialization-/tree/main/C3A1)  
 [CRUD Assignment 2](https://github.com/GoodDee/Web-Applications-for-Everybody-Specialization-/tree/main/C3A2)  
 [CRUD Assignment 3](https://github.com/GoodDee/Web-Applications-for-Everybody-Specialization-/tree/main/C3A3)  
